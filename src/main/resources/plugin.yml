@@ -1,0 +1,6 @@
+name: FlyingSpeedLimiter
+version: '${version}'
+main: me.kmatias.flyingspeedlimiter.Main
+api-version: 1.19
+authors: [ KMatias ]
+description: Limits the maximum movement speed for players when they are not riding an entity
